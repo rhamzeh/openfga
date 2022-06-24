@@ -3,7 +3,8 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/openfga/openfga.svg)](https://pkg.go.dev/github.com/openfga/openfga)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/openfga/openfga?sort=semver&color=green)
 [![Container Image](https://img.shields.io/github/v/release/openfga/openfga?color=blueviolet&label=container&logo=docker "Container Image")](https://hub.docker.com/r/openfga/openfga/tags)
-![Downloads](https://img.shields.io/github/downloads/openfga/openfga/total.svg?style=flat&color=lightgrey)  <!-- render new line with double space here -->  
+![Downloads](https://img.shields.io/github/downloads/openfga/openfga/total.svg?style=flat&color=lightgrey) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frhamzeh%2Fopenfga.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frhamzeh%2Fopenfga?ref=badge_shield)
+ <!-- render new line with double space here -->  
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 ![Codecov](https://img.shields.io/codecov/c/github/openfga/openfga)
 [![Go Report](https://goreportcard.com/badge/github.com/openfga/openfga)](https://goreportcard.com/report/github.com/openfga/openfga)
@@ -136,3 +137,7 @@ See [CONTRIBUTING](https://github.com/openfga/.github/blob/main/CONTRIBUTING.md)
 [config-doc]: https://openfga.dev/docs/getting-started/setup-openfga
 [api]: https://openfga.dev/api/service
 [prod-checklist]: https://openfga.dev/docs/getting-started/setup-openfga#production-checklist
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frhamzeh%2Fopenfga.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frhamzeh%2Fopenfga?ref=badge_large)
